@@ -1,0 +1,17 @@
+id: 0
+name: Mainnet deployment
+network: mainnet
+stacks-node: https://api.hiro.so
+bitcoin-node: http://blockstack:blockstacksystem@bitcoin.blockstack.com:8332
+plan:
+  batches:
+  - id: 0
+    transactions:
+    - transaction-type: contract-publish
+      contract-name: public-kudos
+      expected-sender: SP3CPTJFP3TQK00DV0B5SGE8R0N3Z40MWJ6QZD38Y
+      cost: 33960
+      path: contracts/public-kudos.clar
+      anchor-block-only: true
+      clarity-version: 5
+    epoch: '3.4'
