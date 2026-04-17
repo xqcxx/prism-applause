@@ -72,3 +72,4 @@
 - 069 synthetic history
 - 070 synthetic history
 - 071 synthetic history
+- 072 synthetic history
