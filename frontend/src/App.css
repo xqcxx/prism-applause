@@ -26,7 +26,7 @@
 .glass-card {
   background: var(--surface);
   border: 1px solid var(--line);
-  border-radius: 20px;
+  border-radius: var(--radius-xl);
   backdrop-filter: blur(8px);
   box-shadow: 0 10px 32px rgba(16, 35, 57, 0.08);
 }
