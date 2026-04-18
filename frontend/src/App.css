@@ -246,7 +246,7 @@ input:focus-visible {
 
 .accent:disabled,
 .ghost:disabled {
-  opacity: 0.53;
+  opacity: 0.5;
   cursor: not-allowed;
   transform: none;
   box-shadow: none;
