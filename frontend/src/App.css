@@ -344,7 +344,7 @@ input:focus-visible {
   }
 }
 
-@media (max-width: 980px) {
+@media (max-width: 1000px) {
   .layout-grid,
   .meta-row,
   .hero-metrics,
