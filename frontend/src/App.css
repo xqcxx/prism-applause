@@ -13,6 +13,7 @@
   --success-text: #186741;
   --radius-xl: 20px;
   --radius-md: 14px;
+  --shadow-soft: 0 10px 32px rgba(16, 35, 57, 0.08);
 }
 
 .app {
@@ -29,7 +30,7 @@
   border: 1px solid var(--line);
   border-radius: var(--radius-xl);
   backdrop-filter: blur(8px);
-  box-shadow: 0 10px 32px rgba(16, 35, 57, 0.08);
+  box-shadow: var(--shadow-soft);
 }
 
 .topbar {
