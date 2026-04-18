@@ -372,7 +372,7 @@ input:focus-visible {
 
 @media (max-width: 640px) {
   .app {
-    padding: 1.2rem 0.84rem 2rem;
+    padding: 1.1rem 0.8rem 1.9rem;
   }
 
   h1 {
