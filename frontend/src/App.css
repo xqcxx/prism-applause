@@ -14,6 +14,7 @@
   --radius-xl: 20px;
   --radius-md: 14px;
   --shadow-soft: 0 10px 32px rgba(16, 35, 57, 0.08);
+  --motion-fast: 170ms;
 }
 
 .app {
@@ -222,7 +223,7 @@ input:focus-visible {
   border: 1px solid var(--line-strong);
   font-weight: 700;
   cursor: pointer;
-  transition: transform 170ms ease, box-shadow 170ms ease, background 170ms ease;
+  transition: transform var(--motion-fast) ease, box-shadow var(--motion-fast) ease, background var(--motion-fast) ease;
 }
 
 .accent {
