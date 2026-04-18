@@ -281,7 +281,7 @@ input:focus-visible {
 
 .chip {
   border-radius: 999px;
-  padding: 0.28rem 0.62rem;
+  padding: 0.3rem 0.64rem;
   font-size: 0.72rem;
   font-weight: 700;
 }
