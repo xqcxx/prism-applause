@@ -107,7 +107,7 @@ h3 {
 .control-actions,
 .poll-foot {
   display: flex;
-  gap: 0.65rem;
+  gap: 0.7rem;
   flex-wrap: wrap;
 }
 
