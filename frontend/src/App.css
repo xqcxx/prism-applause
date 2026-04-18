@@ -241,7 +241,7 @@ input:focus-visible {
 .accent:hover,
 .ghost:hover {
   transform: translateY(-1px);
-  box-shadow: 0 7px 17px rgba(17, 43, 68, 0.13);
+  box-shadow: 0 8px 18px rgba(17, 43, 68, 0.13);
 }
 
 .accent:disabled,
