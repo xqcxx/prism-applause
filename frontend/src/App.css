@@ -269,7 +269,7 @@ input:focus-visible {
   display: flex;
   flex-direction: column;
   gap: 0.68rem;
-  animation: categoryIn 360ms ease both;
+  animation: categoryIn 380ms ease both;
 }
 
 .poll-head {
