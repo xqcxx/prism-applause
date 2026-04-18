@@ -219,7 +219,7 @@ input:focus-visible {
 .accent,
 .ghost {
   border-radius: 999px;
-  padding: 0.63rem 1.08rem;
+  padding: 0.64rem 1.12rem;
   border: 1px solid var(--line-strong);
   font-weight: 700;
   cursor: pointer;
