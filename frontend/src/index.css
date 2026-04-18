@@ -3,7 +3,7 @@
 :root {
   font-family: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
   color: #10263d;
-  background: radial-gradient(circle at 15% 10%, #fff3db 0%, #f7fbff 45%, #eff7ff 100%);
+  background: radial-gradient(circle at 16% 8%, #fff4df 0%, #f7fbff 46%, #eef6ff 100%);
   line-height: 1.45;
   font-weight: 400;
   text-rendering: optimizeLegibility;
@@ -19,9 +19,9 @@ body {
   margin: 0;
   min-height: 100vh;
   background-image:
-    linear-gradient(120deg, rgba(255, 255, 255, 0.35) 0%, rgba(255, 255, 255, 0) 50%),
-    radial-gradient(circle at 80% 8%, rgba(16, 192, 170, 0.14) 0%, rgba(16, 192, 170, 0) 38%),
-    radial-gradient(circle at 12% 92%, rgba(255, 145, 73, 0.18) 0%, rgba(255, 145, 73, 0) 42%);
+    linear-gradient(120deg, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0) 52%),
+    radial-gradient(circle at 80% 9%, rgba(16, 192, 170, 0.17) 0%, rgba(16, 192, 170, 0) 39%),
+    radial-gradient(circle at 13% 92%, rgba(255, 145, 73, 0.2) 0%, rgba(255, 145, 73, 0) 45%);
 }
 
 #root {
