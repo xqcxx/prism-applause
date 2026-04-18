@@ -118,7 +118,7 @@ h3 {
 
 .hero-metrics article {
   padding: 0.7rem;
-  border-radius: 14px;
+  border-radius: var(--radius-md);
   background: var(--surface-strong);
   border: 1px solid #d3e1ef;
   display: flex;
