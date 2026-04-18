@@ -82,7 +82,7 @@ h1 {
   font-family: "Fraunces", Georgia, serif;
   margin: 0.45rem 0 0.5rem;
   color: var(--ink);
-  font-size: clamp(2.05rem, 3.3vw, 3.25rem);
+  font-size: clamp(2.1rem, 3.4vw, 3.3rem);
   line-height: 0.97;
 }
 
